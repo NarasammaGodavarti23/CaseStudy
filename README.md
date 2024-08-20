@@ -1,6 +1,6 @@
-# Sales price prediction
+# Emerging Sales Oppurtunities
 
-Use regression to predict price of electronic devices
+Use Regression to predict the Emerging sales oppurtunities of our client Manufacturer A
 
 Tip: If you don't have markdown viewer like atom, you can render this on chrome by following [this link](https://imagecomputing.net/damien.rohmer/teaching/general/markdown_viewer/index.html).
 
